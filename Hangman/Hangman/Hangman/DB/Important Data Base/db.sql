@@ -36,12 +36,10 @@ INSERT INTO Locaciones (NombreLocacion, Pais, MonstruoID)
 VALUES
 --- Espero que esto pueda ayudar
     ('Lago Ness', 'Escocia', 1),
-    ('Castillo de Bran', 'Rumania', 2),--Imaginas que dracula fuera aquí
     ('Valle de los Reyes', 'Egipto', 3),
     ('Cementerio de Highgate', 'Inglaterra', 4),
     ('Casa de la Ópera', 'Francia', 5),
     ('Jardines de Versalles', 'Francia', 6),
-    ('Castillo de Frankenstein', 'Alemania', 7),
     ('Cueva de la Sibila', 'Grecia', 8),
     ('Castillo de Bran', 'Rumania', 9),
     ('Castillo de Bran', 'Rumania', 10);
