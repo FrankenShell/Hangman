@@ -20,12 +20,7 @@ VALUES
     ('Dracula', 'BiteYourNet', 'segura456', 'drac@example.com'),
     ('Mummy', 'Imhotep', 'mummy123', 'imhotep@example.com'),
     ('Zombie', 'Zack Z.', 'zombie', 'zack@example.com'),
-    ('Espectro', 'Elena E.', 'espectro789', 'elena@example.com'),
-    ('Gorgona', 'Gloria G.', 'gorgona123', 'gloria@example.com'),
-    ('Frankenstein', 'Victor F.', 'monstruoverde152', 'frank@example.com'),
     ('Cíclope', 'Carlos C.', 'cyclops456', 'carlos@example.com'),
-    ('Vampiro', 'Vicente V.', 'vampirodsa123', 'vicente@example.com'),
-    ('Licántropo', 'Lucía L.', 'wolfina456', 'lucia@example.com');
 
 -- Crear la tabla de Locaciones
 CREATE TABLE Locaciones (
@@ -40,6 +35,16 @@ CREATE TABLE Locaciones (
 INSERT INTO Locaciones (NombreLocacion, Pais, MonstruoID)
 VALUES
 --- Espero que esto pueda ayudar
+    ('Lago Ness', 'Escocia', 1),
+    ('Castillo de Bran', 'Rumania', 2),--Imaginas que dracula fuera aquí
+    ('Valle de los Reyes', 'Egipto', 3),
+    ('Cementerio de Highgate', 'Inglaterra', 4),
+    ('Casa de la Ópera', 'Francia', 5),
+    ('Jardines de Versalles', 'Francia', 6),
+    ('Castillo de Frankenstein', 'Alemania', 7),
+    ('Cueva de la Sibila', 'Grecia', 8),
+    ('Castillo de Bran', 'Rumania', 9),
+    ('Castillo de Bran', 'Rumania', 10);
     ('Cueva Oscura', 'Misteriolandia', 1),
     ('Lago Profundo', 'Fantasilandia', 2),
     ('Montaña Embrujada', 'Terrormania', 3);
