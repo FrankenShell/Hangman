@@ -7,3 +7,7 @@ Open source for whoever wants to use it; either to play or to learn to apply the
 
 
 ![image](https://user-images.githubusercontent.com/80853132/212214954-31fb6a5b-6190-4760-a809-a93dbc23a0c6.png)
+
+
+
+Para más actualizaciones recuerda revisar la [DOCUMENTACIÓN](https://drive.google.com/drive/folders/1lInKQkiaAiKQzTxbJl6TyLWMydUBIldA?usp=sharing)
